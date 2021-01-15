@@ -1,0 +1,13 @@
+const FETCH_DATAS = 'FETCH_DATAS';
+const FETCH_DATA = 'FETCH_DATA';
+const DELETE_DATA = 'DELETE_DATA';
+const CREATE_DATA = 'CREATE_DATA';
+const EDIT_DATA = 'EDIT_DATA';
+
+module.exports = {
+  FETCH_DATAS,
+  FETCH_DATA,
+  DELETE_DATA,
+  CREATE_DATA,
+  EDIT_DATA,
+};
